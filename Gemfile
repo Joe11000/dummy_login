@@ -16,6 +16,10 @@ gem 'activerecord'
 gem 'rake'
 
 gem 'shotgun'
+# Gems added by us
+gem 'bcrypt-ruby'
+gem 'debugger'
+gem 'better_errors'
 
 group :test do
   gem 'faker'
